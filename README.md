@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
--✨ Student at Computer Science At Faculty of Computer And Information Science ASU .
+-✨ Student at Computer Science At Faculty of Computer And Information Science ASU.
 
 - 
 <!--
