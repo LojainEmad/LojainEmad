@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Computer Science
+-✨ Student at Computer Science At Faculty of Computer And Information Science ASU .
+
+- 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
