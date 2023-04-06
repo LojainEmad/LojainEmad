@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 -✨ Student at Computer Science At Faculty of Computer And Information Science ASU.
 
-- 
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
